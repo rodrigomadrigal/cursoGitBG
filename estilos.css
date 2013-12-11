@@ -1,3 +1,9 @@
 .item {
-color:red
+color:red;
+}
+
+.servicios {
+.item {
+	color:green;
+}
 }
